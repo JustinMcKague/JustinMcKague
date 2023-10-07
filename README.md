@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinMcKague
-- 👀 I’m interested in Game design, Tool design, Combat design, Level design and UI design
+- 👀 I’m interested in Game design, Tool design, Combat design, and systems design
 - 📫 How to reach me Twitter: @McKagueJustin, LinkedIn: /in/justin-mckague-design
 - 🎮 You can find my game projects on my websites: justinmckaguedesign.com and juicetin.itch.io
 
